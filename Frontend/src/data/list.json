@@ -1,0 +1,90 @@
+[
+    {
+        "id": 1,
+        "name":"Story book",
+        "title": "In a Glass Grimmly by Adam Gidwitz",
+        "price":0,
+        "category":"Free",
+        "image":"book1.jpg"
+    },
+     {
+        "id": 2,
+        "name":"Story book",
+        "title": "In a Glass Grimmly by Adam Gidwitz",
+        "price":0,
+        "category":"Free",
+        "image":"book1.jpg"
+    },
+     {
+        "id": 3,
+        "name":"Story book",
+        "title": "In a Glass Grimmly by Adam Gidwitz",
+        "price":0,
+        "category":"Free",
+        "image":"book1.jpg"
+    },
+     {
+        "id": 4,
+        "name":"Story book",
+        "title": "In a Glass Grimmly by Adam Gidwitz",
+        "price":0,
+        "category":"Free",
+        "image":"book1.jpg"
+    },
+     {
+        "id": 5,
+        "name":"Story book",
+        "title": "In a Glass Grimmly by Adam Gidwitz",
+        "price":0,
+        "category":"Free",
+        "image":"book1.jpg"
+    },
+     {
+        "id": 6,
+        "name":"Music book",
+        "title": "In a Glass Grimmly by Adam Gidwitz",
+        "price":30,
+        "category":"Song",
+        "image":"book1.jpg"
+    },
+     {
+        "id": 7,
+        "name":"Story book",
+        "title": "In a Glass Grimmly by Adam Gidwitz",
+        "price":0,
+        "category":"Free",
+        "image":"book1.jpg"
+    },
+     {
+        "id": 8,
+        "name":"Story book",
+        "title": "In a Glass Grimmly by Adam Gidwitz",
+        "price":0,
+        "category":"Free",
+        "image":"book1.jpg"
+    },
+     {
+        "id": 9,
+        "name":"Thriller book",
+        "title": "In a Glass Grimmly by Adam Gidwitz",
+        "price":90,
+        "category":"Thriller",
+        "image":"book1.jpg"
+    },
+     {
+        "id": 10,
+        "name":"Sports book",
+        "title": "In a Glass Grimmly by Adam Gidwitz",
+        "price":50,
+        "category":"Sports",
+        "image":"book1.jpg"
+    },
+     {
+        "id": 11,
+        "name":"Comedy book",
+        "title": "In a Glass Grimmly by Adam Gidwitz",
+        "price":20,
+        "category":"Free",
+        "image":"book1.jpg"
+    }
+]
